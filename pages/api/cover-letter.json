@@ -1,0 +1,23 @@
+{
+    "Skills": [
+        {
+               "title": "Softuni",
+               "startDate": "2020",
+               "endDate": "till now",
+               "description": "Web Development"
+        }
+    ],
+    "Education": [
+        {
+               "title": "Skills",
+               "skills": [
+                    {
+                        "title": "Programming and Stylisation",
+                        "paragraph": "JavaScript, (Node.js, React.js - Currently Studying), PHP, SASS, Laravel, Bootstrap, jQuery",
+                        "bold": false
+                    }
+               ]
+        }
+    ]
+
+}
