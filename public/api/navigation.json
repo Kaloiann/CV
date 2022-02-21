@@ -1,0 +1,30 @@
+{
+  "image": "/images/cv-photo.jpg",
+  "pageLinks": [
+    {
+      "title": "Cover Letter",
+      "link": "/"
+    },
+    {
+      "title": "Motivational letter",
+      "link": "/motivational-letter"
+    },
+    {
+      "title": "Portfolio",
+      "link": "https://github.com/Kaloiann",
+      "external": true
+    }
+  ],
+  "contactInfo": [
+    {
+      "title": "kaloian.cenkulovski_5@abv.bg",
+      "link": "mailto:kaloian.cenkulovski_5@abv.bg",
+      "type": "email"
+    },
+    {
+      "title": "+359 898 437 788",
+      "link": "tel:359898437788",
+      "type": "tel"
+    }
+  ]
+}

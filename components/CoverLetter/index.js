@@ -1,10 +1,10 @@
 import React from 'react'
-import Data from '../api/cover-letter.json'
-import classes from './CoverLetter.module.css'
+import Data from '../../public/api/cover-letter.json'
+import css from './CoverLetter.module.css'
 
 function CoverLetter() {
   return (
-    <div className={classes.container}>
+    <div className={css.container}>
         <header>
             <h1>{Data.title}</h1>
         </header>
