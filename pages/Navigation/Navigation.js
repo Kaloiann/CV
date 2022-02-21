@@ -17,9 +17,9 @@ function Navigation() {
             <a href='https://github.com/Kaloiann?tab=repositories'>
                 {Data.externalLinks.title}
             </a>
-            <a>
+            <Link href="">
                 {Data.secondPageLink.title}
-            </a>
+            </Link>
             <a>
                 {Data.contactInfo.title}
             </a>
