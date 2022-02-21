@@ -1,0 +1,30 @@
+{
+    "image": "?",
+    "pageLink": 
+        {
+            "title": "Cover Letter", 
+            "link": "dick",
+            "external": false
+        }
+    ,
+    "secondPageLink": 
+        { 
+            "title": "Motivation letter", 
+            "link": "dick",
+            "external": false
+        }
+    ,
+    "externalLinks": 
+        {
+            "title": "Portfolio",
+            "link": "dick",
+            "external": false
+        }
+    ,
+    "contactInfo": 
+        {
+            "title": "Contact",
+            "link": "dick",
+            "type": "email, phone, link"
+        }
+}
