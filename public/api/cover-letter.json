@@ -1,30 +1,22 @@
 {
-    "title": "Skills",
-    "skills": 
-            [
-                   {
-                     "id": 1,
-                     "title": "Programming and Stylisation",
-                     "paragraph": "JavaScript, (Node.js, React.js - Currently Studying), PHP, SASS, Laravel, Bootstrap, jQuery",
-                     "bold": false
-                 },
-                 {
-                     "id": 2,
-                     "title": "Design and Video",
-                     "paragraph": "Photoshop, Premiere Pro, Illustrator, After Effects, Animate CC, Dragon Bones, Cinema 4D, Unity 3D",
-                     "bold": false
-                 },
-                 {
-                    "id": 3,
-                    "title": "CMS",
-                    "paragraph": "Wordpress: ACF, Woocommerce",
-                    "bold": false
-                 },
-                 {
-                    "id": 4,
-                    "title": "Soft skills",
-                    "paragraph": "Kanban, Time management, Deep listening. I'm familiar with scrum and agile methodologies and I apply the kanban method on a daily basis for my work and daily routine. I've been working to improve my soft skills as well. I completed a couple of online courses about Deep listening at udemy and such other platforms. I'm certain this had a positive effect on my teamwork skills.",
-                    "bold": false
-                 }
-               ]
+  "title": "Skills",
+  "skills": [{
+      "id": 1,
+      "title": "Programming Languages",
+      "paragraph": "Basics of HTML, CSS, JavaScript",
+      "bold": false
+    },
+    {
+      "id": 2,
+      "title": "Framework of JavaScript",
+      "paragraph": "React, Next, a little of TypeScript",
+      "bold": false
+    },
+    {
+      "id": 3,
+      "title": "Design",
+      "paragraph": "Sass, Tailwind",
+      "bold": false
+    }
+  ]
 }

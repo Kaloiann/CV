@@ -5,11 +5,20 @@
 .container h1 {
     color: #3bc79a;
     margin-top: 0;
-    font-size: 45px;
+    font-size: 65px;
 }
 .container ul {
     list-style: none;
 }
 .container p {
     max-width: 700px;
+    font-size: 30px;
 }
+@media (max-width: 1020px) {
+    .container h1{
+        font-size: 40px;
+    }
+    .container p{
+        font-size: 17px;
+    }
+  }

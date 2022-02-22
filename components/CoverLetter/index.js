@@ -5,9 +5,7 @@ import css from './CoverLetter.module.css'
 function CoverLetter() {
   return (
     <div className={css.container}>
-        <header>
-            <h1>{Data.title}</h1>
-        </header>
+        <h1>{Data.title}</h1>
         {Data.skills.map(skill => 
             <ul>
                 <li key={skill.id}>
